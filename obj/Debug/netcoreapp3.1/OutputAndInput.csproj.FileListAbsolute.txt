@@ -1,0 +1,13 @@
+A:\GoStudy\OutputAndInput\bin\Debug\netcoreapp3.1\OutputAndInput.exe
+A:\GoStudy\OutputAndInput\bin\Debug\netcoreapp3.1\OutputAndInput.deps.json
+A:\GoStudy\OutputAndInput\bin\Debug\netcoreapp3.1\OutputAndInput.runtimeconfig.json
+A:\GoStudy\OutputAndInput\bin\Debug\netcoreapp3.1\OutputAndInput.runtimeconfig.dev.json
+A:\GoStudy\OutputAndInput\bin\Debug\netcoreapp3.1\OutputAndInput.dll
+A:\GoStudy\OutputAndInput\bin\Debug\netcoreapp3.1\OutputAndInput.pdb
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.csprojAssemblyReference.cache
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.csproj.CoreCompileInputs.cache
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.AssemblyInfoInputs.cache
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.AssemblyInfo.cs
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.dll
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.pdb
+A:\GoStudy\OutputAndInput\obj\Debug\netcoreapp3.1\OutputAndInput.genruntimeconfig.cache
